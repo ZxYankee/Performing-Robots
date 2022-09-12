@@ -9,7 +9,7 @@ I think if a robot has several functions without a human-like appearance, it wil
 
 - We can add robots to this list of hyperobjects: they can extend the performance parameters of human bodies (the extension of human beings) and operate, as Stelarc has noted, not only as extensions of human operational capacity but as entities interacting with human bodies where the human is the prosthesis for the robot and not the other way around (Stelarc, 2005). Compare this with the conception of cyborgs.
 
-### ### Observations & Questions:
+### Observations & Questions:
 
 - Anna Munster: "Cyborgs, clone and robots can all be understood as protosubjectivities" (Munster, 64). What is the definition of protosubjectivity? Why can we consider Cyborgs and clone as the similar class with robots?
 - Gibson: "Humans lack the comprehension to even imagine the possibility of an end of time, in a non-human world." Does this mean that in a non-human world, human become the prosthesis for robots? They start to lose some of their instincts such as feeling the end of time as robots. Which means that human start to put robots' characteristics on themselves rather than trying to put humans' characteristics on robots.
