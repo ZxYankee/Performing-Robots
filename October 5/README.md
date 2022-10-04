@@ -1,0 +1,5 @@
+# The Freudian Robot: Digital Media and the Future of the Unconscious
+
+## Lydia H. Liu
+
+The author suggests that robots should not only be the prothetic of human beings, they can also be an extension of psychos. The role of writing has changed in the era of digital media. With the Freudian unconscious, the author aims at exploring the role of writing, alphabets, and psychoanalysis using the Freudian robots. Moreover, the author discussed a question that whether humans are masters of robots or slaves. As the two relationships between humans and robots, which are prosthetic and interactive. I think the prosthetic relationship between humans and robots can make humans to be masters. However, if humans be more likely to rely on robots, they will be the slaves. And as the interactive relationship describes that machines affect the human senses, thus changing the way humans perceive the external world. I think there is no exactly a relationship between masters and slaves, it is more likey a relationship of win-win. This reminds me of digital intelligence and cyborgs.
